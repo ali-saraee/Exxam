@@ -1,0 +1,16 @@
+.mycard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mybtn{
+    width: 233px;
+    border-radius: 13px;
+}
+.cardtitle{
+    padding-right: 144px;
+
+}
+.cardtext{
+    text-align: left;
+}
